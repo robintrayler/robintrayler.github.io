@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://robintrayler.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/collaborators/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/publications/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/research/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/teaching/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://robintrayler.github.io/tags/</loc>
+  </url>
+  
+</urlset>
