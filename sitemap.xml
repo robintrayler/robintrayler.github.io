@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>https://robintrayler.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://robintrayler.github.io/publications/</loc>
     <priority>0</priority>
   </url>
