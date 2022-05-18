@@ -1,0 +1,10 @@
+@article{trayler2015,
+  title = {Inland {{California}} during the {{Pleistocene}}\textemdash{{Megafaunal}} Stable Isotope Records Reveal New Paleoecological and Paleoenvironmental Insights},
+  author = {Trayler, Robin B. and Dundas, Robert G. and {Fox-Dobbs}, Kena and Van De Water, Peter K.},
+  year = {2015},
+  journal = {Palaeogeography, Palaeoclimatology, Palaeoecology},
+  volume = {437},
+  pages = {132--140},
+  issn = {00310182},
+  doi = {10.1016/j.palaeo.2015.07.034}
+}

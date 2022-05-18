@@ -1,0 +1,6 @@
+@article{harrigan2021,
+  title = {Recalibrating the {{Devonian}} Time Scale: {{A}} New Method for Integrating Radioisotopic and Astrochronologic Ages in a {{Bayesian}} Framework},
+  author = {Harrigan, Claire O and Schmitz, Mark D and Over, D Jeffrey and Trayler, Robin B and Davydov, Vladimir I},
+  year = {2021},
+  journal = {GSA Bulletin}
+}

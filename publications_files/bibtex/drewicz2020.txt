@@ -1,0 +1,9 @@
+@article{drewicz2020,
+  title = {The Interpretability of Stable Hydrogen Isotopes in Modern Herbivore Tooth Enamel},
+  author = {Drewicz, Amanda E. and Trayler, Robin B. and Hollaway, Mariah and Harrigan, Claire O. and Kohn, Matthew J.},
+  year = {2020},
+  journal = {Geochimica et Cosmochimica Acta},
+  volume = {270},
+  pages = {84--94},
+  issn = {0016-7037}
+}

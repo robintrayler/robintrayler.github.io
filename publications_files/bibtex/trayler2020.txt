@@ -1,0 +1,10 @@
+@article{trayler2020,
+  title = {Patagonian {{Aridification}} at the {{Onset}} of the {{Mid}}-{{Miocene Climatic Optimum}}},
+  author = {Trayler, Robin B. and Kohn, Matthew J. and Bargo, M. Susana and Cuiti{\~n}o, Jos{\'e} I. and Kay, Richard F. and Str{\"o}mberg, Caroline AE and Vizca{\'i}no, Sergio F.},
+  year = {2020},
+  journal = {Paleoceanography and Paleoclimatology},
+  volume = {35},
+  number = {9},
+  pages = {e2020PA003956},
+  issn = {2572-4517}
+}

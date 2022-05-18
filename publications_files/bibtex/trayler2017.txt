@@ -1,0 +1,12 @@
+@article{trayler2017,
+  title = {Tooth Enamel Maturation Reequilibrates Oxygen Isotope Compositions and Supports Simple Sampling Methods},
+  author = {Trayler, Robin B. and Kohn, Matthew J.},
+  year = {2017},
+  month = feb,
+  journal = {Geochimica et Cosmochimica Acta},
+  volume = {198},
+  pages = {32--47},
+  issn = {0016-7037},
+  doi = {10.1016/j.gca.2016.10.023},
+  abstract = {Oxygen isotope and major element zoning patterns of several disparate ungulate teeth were collected to evaluate the timing and geometry of enamel formation, records of isotope zoning, and tooth enamel sampling strategies. Isotopic zoning in mammalian tooth enamel encodes a sub-annual time series of isotopic variation of an animal's body water composition, with a damping factor that depends on the specifics of how enamel mineralizes. Enamel formation comprises two stages: precipitation of appositional enamel with a high CO3: PO4 ratio, followed by precipitation of maturational enamel with a lower CO3: PO4. If appositional and maturational enamel both contribute to isotope compositions (but with different CO3: PO4), and if isotope compositions vary seasonally, paired delta O-18 values from CO3 and PO4 profiles should show a spatial separation. CO3 isotope patterns should be shifted earlier seasonally than PO4 isotope patterns. Such paired profiles for new and published data show no resolvable shifts, i.e. CO3 and PO4 delta O-18 profiles show coincident maxima and minima. This coincidence suggests that enamel maturation reequilibrates appositional isotope compositions. If enamel maturation establishes enamel isotope compositions, the geometry of maturation, not apposition, should be considered when devising sampling protocols. X-ray maps of Ca zoning show that the majority of enamel (inner and middle layers) mineralizes heavily at a high angle to the external tooth surface and the enamel-dentine junction over length scales of 2-4 mm, while the outer enamel surface mineralizes more slowly. These data suggest that isotopic sampling strategies should parallel maturational geometry and focus on interior enamel to improve data fidelity. The magnitude of isotopic damping is also smaller than implied in previous studies, so tooth enamel zoning more closely reflects original body water isotopic variations than previously assumed. Published by Elsevier Ltd.}
+}

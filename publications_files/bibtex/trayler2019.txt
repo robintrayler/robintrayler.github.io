@@ -1,0 +1,9 @@
+@article{trayler2019,
+  title = {An {{Improved Approach To Age-Depth Modeling In Deep Time}}: {{Implications For The Santa Cruz Formation}}, {{Argentina}}},
+  author = {Trayler, Robin B. and Schmitz, Mark D. and Cuiti{\~n}o, Jos{\'e} I. and Kohn, Matthew J. and Bargo, M. Susana and Kay, Richard F. and Str{\"o}mberg, Caroline A. E. and Vizca{\'i}no, Sergio F.},
+  year = {2020},
+  journal = {Geological Society of America Bulletin},
+  volume = {132},
+  number = {1-2},
+  pages = {233--244}
+}

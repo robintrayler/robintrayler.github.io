@@ -1,0 +1,13 @@
+@article{landry2021,
+  title = {Dietary Reconstruction and Evidence of Prey Shifting in {{Pleistocene}} and Recent Gray Wolves ({{Canis}} Lupus) from {{Yukon Territory}}},
+  author = {Landry, Zoe and Kim, Sora and Trayler, Robin B. and Gilbert, Marisa and Zazula, Grant and Southon, John and Fraser, Danielle},
+  year = {2021},
+  month = jun,
+  journal = {Palaeogeography, Palaeoclimatology, Palaeoecology},
+  volume = {571},
+  pages = {110368},
+  issn = {0031-0182},
+  doi = {10.1016/j.palaeo.2021.110368},
+  abstract = {We investigate if and how diets of gray wolves from the Yukon Territory, Canada, have changed from the Pleistocene ({$>$}52.8~ka BP to 26.5~ka BP [{$\pm$}170 y BP]) to the recent Holocene (1960s) using dental microwear analysis of carnassial teeth and stable isotope analyses of carbonates ({$\delta$}13CCO3 and {$\delta$}18OCO3) and collagen ({$\delta$}13Ccol and {$\delta$}15Ncol) from bone. We find that dental microwear patterns are similar between the Pleistocene and Holocene specimens, indicating that there has been no change in carcass utilization behaviours, where flesh, not bone, is primarily consumed. Based on minimal changes in {$\delta$}13CCO3 and {$\delta$}13Ccol values, we find that, over thousands of years, Yukon gray wolves have remained generalist predators feeding upon several large ungulate species. Interestingly, {$\delta$}15Ncol values suggest that the extinction of megafaunal species at \textasciitilde 11.7 Ka induced a shift from a diet comprised primarily of horse (Equus sp.) to one based on cervids (i.e. moose and caribou). Survival of large-bodied cervids, such as caribou (Rangifer tarandus), was likely key to wolf survival. Although gray wolves survived the end Pleistocene megafauna extinction and demonstrate a degree of ecological flexibility, we suggest that failure to preserve major elements of their current niche (e.G. caribou) may result in continued population declines, especially in the face of increasing anthropogenic influences.},
+  keywords = {Dental microwear,Dietary ecology,Gray wolf,Pleistocene,Stable isotopes}
+}

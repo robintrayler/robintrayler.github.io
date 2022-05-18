@@ -1,0 +1,8 @@
+@article{daggers2018,
+  title = {Assessing {{The Early Holocene Environment Of Northwestern Guyana}}: {{An Isotopic Analysis Of Human And Faunal Remains}}},
+  author = {Daggers, Louisa and Plew, Mark G. and Edwards, Alex and Evans, Samantha and Trayler, Robin B.},
+  year = {2018},
+  journal = {Latin American Antiquity},
+  pages = {1--14},
+  doi = {doi:10.1017/laq.2017.87}
+}

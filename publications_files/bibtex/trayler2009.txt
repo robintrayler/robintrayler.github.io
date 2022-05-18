@@ -1,0 +1,8 @@
+@article{trayler2009,
+  title = {American {{Mastodon}} ({{{\emph{Mammut}}}}{\emph{ Americanum}}) in the {{Rancho La Brea Collection}} of the {{University}} of {{California Museum}} of {{Paleontology}}},
+  author = {Trayler, Robin B. and Dundas, Robert G.},
+  year = {2009},
+  journal = {Current Research in the Pleistocene},
+  volume = {26},
+  pages = {184--186}
+}

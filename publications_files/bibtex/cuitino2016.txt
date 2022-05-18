@@ -1,0 +1,10 @@
+@article{cuitino2016,
+  title = {U-{{Pb}} Geochronology of the {{Santa Cruz Formation}} (Early {{Miocene}}) at the {{R\'io Bote}} and {{R\'io Santa Cruz}} (Southernmost {{Patagonia}}, {{Argentina}}): {{Implications}} for the Correlation of Fossil Vertebrate Localities},
+  author = {Cuiti{\~n}o, Jos{\'e} I. and Fernicola, Juan Carlos and Kohn, Matthew J. and Trayler, Robin B. and Naipauer, Maximiliano and Bargo, M. Susana and Kay, Richard F. and Vizca{\'i}no, Sergio F.},
+  year = {2016},
+  journal = {Journal of South American Earth Sciences},
+  volume = {70},
+  pages = {198--210},
+  issn = {0895-9811},
+  doi = {doi: 10.1016/j.jsames.2016.05.007}
+}

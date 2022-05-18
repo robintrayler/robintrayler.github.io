@@ -1,0 +1,10 @@
+@article{fox-dobbs2014,
+  title = {Paleoecological Implications of New Megafaunal {\textsuperscript{14}}{{C}} Ages from the {{McKittrick}} Tar Seeps, {{California}}},
+  author = {{Fox-Dobbs}, Kena and Dundas, Robert G. and Trayler, Robin B. and Holroyd, Patricia A.},
+  year = {2014},
+  journal = {Journal of Vertebrate Paleontology},
+  volume = {34},
+  number = {1},
+  pages = {220--223},
+  issn = {0272-4634}
+}

@@ -1,0 +1,10 @@
+@article{landing2021,
+  title = {Precise Early {{Cambrian U}}\textendash{{Pb}} Zircon Dates Bracket the Oldest Trilobites and Archaeocyaths in {{Moroccan West Gondwana}}},
+  author = {Landing, Ed and Schmitz, Mark D. and Geyer, Gerd and Trayler, Robin B. and Bowring, Samuel A.},
+  year = {2021},
+  journal = {Geological Magazine},
+  volume = {158(2)},
+  number = {2},
+  pages = {219--238},
+  issn = {0016-7568}
+}
