@@ -15,7 +15,7 @@
       <guid>https://robintrayler.github.io/post/devonian_timescale/</guid>
       
         <description>Three new timescales for the Devonian.
-  The biotic, climatic, and tectonic events of the Devonian cannot be correlated and investigated without a well-calibrated time scale.</description>
+  The biotic, climatic, and tectonic events of the Devonian cannot be correlated and investigated without a well-calibrated time scale. In our new paper out today lead by Claire Harrigan we recalibrated the Geologic Time Scale for the Devonian using three different conodont bio zone schemes, new U-Pb geochronology and a new approach to integrating Bayesian age depth modeling and astrochronologic constraints. The paper is available now in GSA Bulletin, and the modeling code is available on Github.</description>
       
     </item>
     
@@ -26,7 +26,8 @@
       
       <guid>https://robintrayler.github.io/post/yukon_wolves/</guid>
       
-        <description>Grey wolves pursuing a horse on the Yukon mammoth steppe during the late Pleistocene.</description>
+        <description>Grey wolves pursuing a horse on the Yukon mammoth steppe during the late Pleistocene. Painting by Julius Csotonyi for the Government of Yukon.
+  Grey wolves (Canis lupus) are one of the most widespread terrestrial carnivores and one of the largest to have survived the late Pleistocene extinctions. A new paper I&amp;rsquo;m a coauthor on shows that wolves from the Canadian Yukon were able to survive the extinctions in part because of their flexible diets.</description>
       
     </item>
     
@@ -48,7 +49,7 @@
       
       <guid>https://robintrayler.github.io/about/</guid>
       
-        <description>About I&amp;rsquo;m a geochemist and paleoecologist. My research focuses on the interaction between climate and ecology and has spanned geologic time from the Cambrian to present day.</description>
+        <description>About I&amp;rsquo;m a geochemist and paleoecologist. My research focuses on the interaction between climate and ecology and has spanned geologic time from the Cambrian to present day. I use a variety of techniques including stable isotope geochemistry, geochronology, and Bayesian modeling. Currently I&amp;rsquo;m the Technical Director of the Stable Isotope Ecosystems Lab at the University of California, Merced where I help researchers (undergraduate students, graduate students, and faculty) from across the university measure stable isotope compositions and elemental content in a variety of materials including soil and plants 🌱, carbonates 🥚, teeth and bones 🦷, and a range of soft tissue from animals including fish 🐠, sharks 🦈, wolves 🐺 and extinct mammals 🦣.</description>
       
     </item>
     
@@ -59,7 +60,8 @@
       
       <guid>https://robintrayler.github.io/collaborators/</guid>
       
-        <description>Collaborators As a professional researcher at the University of California Merced, I welcome the opportunity to work folks across the university, especially with student researchers at the graduate and undergraduate level.</description>
+        <description>Collaborators As a professional researcher at the University of California Merced, I welcome the opportunity to work folks across the university, especially with student researchers at the graduate and undergraduate level.
+Past &amp;amp; Present Robert G. Dundas 🔗  Professor California State University, Fresno vertebrate paleontology 🦴, paleoecology 🦣, extinction 🦕  Kena Fox-Dobbs 🔗  Professor University of Puget Sound stable isotope ecology ⚛️, paleoecology 🦣, paleoclimatology 🌦  Danielle Fraser 🔗  Director of Beaty Centre for Species Discovery, Canadian Museum of Nature phylogenetics 🧬, paleoecology 🦣, tooth microwear 🦷  Claire O.</description>
       
     </item>
     
@@ -81,7 +83,7 @@
       
       <guid>https://robintrayler.github.io/publications/</guid>
       
-        <description>Publications (PDF 📄, code 🧑🏼‍💻, bibtex 🗄) 2021  Harrigan C.</description>
+        <description>Publications (PDF 📄, code 🧑🏼‍💻, bibtex 🗄) 2021  Harrigan C. O., Schmitz M. D., Trayler, R. B., Over, D. J., (2021), Recalibrating the Devonian timescale: New high precision U-Pb zircon ages and a method for integrating radioisotopic ages, conodont biostratigraphy, and astrochronology for timescale modeling: Geological Society of America Bulletin. 📄 🧑🏼‍💻 🗄 Landry, Z., Kim, S., Trayler, R.B., Gilbert, M., Zazula, G., Southon, J., and Fraser, D., 2021, Dietary reconstruction and evidence of prey shifting in Pleistocene and recent gray wolves (Canis lupus) from Yukon Territory: Palaeogeography, Palaeoclimatology, Palaeoecology, v.</description>
       
     </item>
     
@@ -103,7 +105,9 @@
       
       <guid>https://robintrayler.github.io/geochronology/</guid>
       
-        <description>My research focuses on understanding the rate and tempo of earth processes with an emphasis on modeling the long-term accumulation of sediment from stratigraphic sections and rock cores, using Bayesian modeling.</description>
+        <description>My research focuses on understanding the rate and tempo of earth processes with an emphasis on modeling the long-term accumulation of sediment from stratigraphic sections and rock cores, using Bayesian modeling. My past research includes developing a version of the Bayesian {Bchron} modeling framework suitable for deep time (U-Pb, 40Ar/39Ar) applications.
+ Bayesian age-depth model of a composite section from the Santa Cruz Formation, Argentina.
+  The {Bchron} algorithm aims to model the accumulation of sediment as a probabilistic, stochastic process, with controls based on radioisotopic dates of discrete horizons to produce a model that relates stratigraphic position to absolute time in a statistical robust way.</description>
       
     </item>
     
@@ -114,7 +118,7 @@
       
       <guid>https://robintrayler.github.io/paleoclimate/</guid>
       
-        <description>Fossil‐rich sediments of the Santa Cruz Formation, Patagonia, Argentina, span the initiation of the Miocene Climatic Optimum (MCO), the most recent period of warm and wet conditions in the Cenozoic.</description>
+        <description>Fossil‐rich sediments of the Santa Cruz Formation, Patagonia, Argentina, span the initiation of the Miocene Climatic Optimum (MCO), the most recent period of warm and wet conditions in the Cenozoic. These conditions drove the expansion of tropical and subtropical ecosystems to higher latitudes, with the fossiliferous Santa Cruz Formation recording one of the southernmost examples. We collected new carbon and oxygen isotope compositions of herbivore tooth enamel from fossils ~17.4 to 16.</description>
       
     </item>
     
@@ -125,7 +129,7 @@
       
       <guid>https://robintrayler.github.io/stable_isotopes/</guid>
       
-        <description>My research aims to use the stable isotope composition of various tissues (tooth enamel, bone collagen, hair, etc.</description>
+        <description>My research aims to use the stable isotope composition of various tissues (tooth enamel, bone collagen, hair, etc.) to investigate the ecology of modern and fossil animals as well as their environments. I&amp;rsquo;ve previously worked on a variety of fossil mammals from the Pleistocene and Miocene and Currently I&amp;rsquo;m interested in how predators respond to external forces, and how this shapes ecosystems. In particular I&amp;rsquo;m working to understand the dynamics of within and between group competition manifests in modern sharks and grey wolves.</description>
       
     </item>
     
