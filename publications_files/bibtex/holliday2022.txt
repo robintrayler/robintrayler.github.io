@@ -1,0 +1,8 @@
+@article{holliday2022,
+  title = {Emplacement Age of the {{Markagunt}} Gravity Slide in Southwestern {{Utah}}, {{USA}}},
+  author = {Holliday, McKenna E and Rivera, Tiffany and Jicha, Brian and Trayler, Robin B and Biek, Robert F and Braunagel, Michael J and Griffith, W Ashley and Hacker, David B and Malone, David H and Mayback, Danika F},
+  year = {2022},
+  journal = {Terra Nova},
+  publisher = {{Wiley Online Library}},
+  issn = {0954-4879}
+}
