@@ -1,0 +1,8 @@
+@article{trayler2023,
+  title = {Evaluating the Efficacy of Collagen Isolation Using Stable Isotope Analysis and Infrared Spectroscopy},
+  author = {Trayler, Robin B. and Valencia Landa, Pedro and Kim, Sora L.},
+  year = {2023},
+  journal = {Journal of Archaeological Science},
+  volume = {},
+  pages = {}
+}
