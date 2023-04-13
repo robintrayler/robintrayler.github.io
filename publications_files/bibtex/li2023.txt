@@ -1,0 +1,11 @@
+@article{Li2023,
+  title = {Revised Onset Age of Magnetochron {{M0r}}: {{Chronostratigraphic}} and Geologic Implications},
+  author = {Li, Youjuan and Qin, Huafeng and Jicha, Brian R. and Huyskens, Magdalena H. and Wall, Corey J. and Trayler, Robin B. and Yin, Qing-Zhu and Schmitz, Mark and Pan, Yongxin and Deng, Chenglong and Singer, Brad S. and He, Huaiyu and Zhu, Rixiang},
+  year = {2023},
+  month = apr,
+  journal = {Geology},
+  eprint = {https://pubs.geoscienceworld.org/gsa/geology/article-pdf/doi/10.1130/G50873.1/5821683/g50873.pdf},
+  issn = {0091-7613},
+  doi = {10.1130/G50873.1},
+  abstract = {The timing of the onset of magnetochron M0r and its duration are disputed, reflecting both a limited set of radioisotopic dates and uncertain magnetostratigraphic correlations. We present a chronostratigraphic framework for a reversed polarity interval based on two chronometers (40Ar/39Ar, U-Pb) and newly published paleomagnetic data from the Qingshan Group, Jiaolai Basin, China. Bayesian modeling of U-Pb zircon and 40Ar/39Ar sanidine dates suggests a minimum duration of 540 {$\pm$} 37 k.y. (95 \% credible interval) for the reversed polarity interval. These findings are compatible with an astrochronologic age model for M-sequence seafloor magnetic anomalies, indicating that the reversely magnetized sediments correspond to magnetochron M0r rather than the shorter chron ``M-1r.'' Integration of U-Pb and 40Ar/39Ar ages constrains the onset of M0r to 120.29 {$\pm$} 0.09 Ma, which is {$\sim$}1 m.y. younger than that inferred in the current geologic time scale (GTS 2020). This finding also implies that the Cretaceous normal superchron (CNS) began at 119.70 {$\pm$} 0.12 Ma and that the average seafloor spreading rate during the CNS was {$\sim$}3.5 \% higher than that inferred from GTS 2020. It also suggests that oceanic anoxic event 1a began at 119.40 {$\pm$} 0.12 Ma, thereby providing an updated chronologic basis for exploring the primary trigger of this carbon cycle perturbation.}
+}
