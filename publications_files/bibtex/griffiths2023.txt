@@ -1,0 +1,9 @@
+@article{griffiths2023,
+  title = {Endothermic Physiology of Extinct Megatooth Sharks},
+  author = {Griffiths, Michael L and Eagle, Robert A and Kim, Sora L and Flores, Randon J and Becker, Martin A and Iv, Harry M Maisch and Trayler, Robin B and Chan, Rachel L and McCormack, Jeremy and Akhtar, Alliya A and Tripati, Aradhna K and Shimada, Kenshu},
+  year = {2023},
+  volume = {120},
+  number = {27},
+  langid = {english},
+  file = {/Users/robintrayler/Zotero/storage/PU8TD9PC/Griffiths et al. - 2023 - Endothermic physiology of extinct megatooth sharks.pdf}
+}
