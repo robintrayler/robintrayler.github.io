@@ -1,0 +1,9 @@
+@article{larrocaconte2024,
+  title = {{{SPORA}}, a New Silver Phosphate Precipitation Protocol for Oxygen Isotope Analysis of Small, Organic-Rich Bioapatite Samples},
+  author = {Larroca Conte, Gabriele and Lopes, Lauren and Mine, Aric H and Trayler, Robin B and Kim, Sora L},
+  year = {2024},
+  journal = {Chemical Geology},
+  pages = {122000},
+  publisher = {{Elsevier}},
+  issn = {0009-2541}
+}
