@@ -1,0 +1,11 @@
+@Article{trayler2024,
+AUTHOR = {Trayler, R. B. and Meyers, S. R. and Sageman, B. B. and Schmitz, M. D.},
+TITLE = {Bayesian integration of astrochronology and radioisotope geochronology},
+JOURNAL = {Geochronology},
+VOLUME = {6},
+YEAR = {2024},
+NUMBER = {1},
+PAGES = {107--123},
+URL = {https://gchron.copernicus.org/articles/6/107/2024/},
+DOI = {10.5194/gchron-6-107-2024}
+}
