@@ -9,3 +9,14 @@ PAGES = {107--123},
 URL = {https://gchron.copernicus.org/articles/6/107/2024/},
 DOI = {10.5194/gchron-6-107-2024}
 }
+
+
+@article{trayler2024a,
+  title = {Rapid, {{Effective Screening}} of {{Tar Seep Fossils}} for {{Radiocarbon}} and {{Stable Isotope Analysis}}},
+  author = {Trayler, Robin B and Lopes, Lauren E and Holroyd, Patrica A and Kim, Sora L and Southon, John R},
+  year = {2024},
+  journal = {Quaternary Geochronology},
+  pages = {101631},
+  publisher = {Elsevier},
+  issn = {1871-1014}
+}
