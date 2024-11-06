@@ -1,0 +1,15 @@
+@article{https://doi.org/10.1029/2024PA004965,
+author = {Larocca Conte, Gabriele and Aleksinski, Adam and Liao, Ashley and Kriwet, Jürgen and Mörs, Thomas and Trayler, Robin B. and Ivany, Linda C. and Huber, Matthew and Kim, Sora L.},
+title = {Eocene Shark Teeth From Peninsular Antarctica: Windows to Habitat Use and Paleoceanography},
+journal = {Paleoceanography and Paleoclimatology},
+volume = {39},
+number = {11},
+pages = {e2024PA004965},
+doi = {https://doi.org/10.1029/2024PA004965},
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2024PA004965},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2024PA004965},
+note = {e2024PA004965 2024PA004965},
+abstract = {Abstract Eocene climate cooling, driven by the falling pCO2 and tectonic changes in the Southern Ocean, impacted marine ecosystems. Sharks in high-latitude oceans, sensitive to these changes, offer insights into both environmental shifts and biological responses, yet few paleoecological studies exist. The Middle-to-Late Eocene units on Seymour Island, Antarctica, provide a rich, diverse fossil record, including sharks. We analyzed the oxygen isotope composition of phosphate from shark tooth bioapatite (δ18Op) and compared our results to co-occurring bivalves and predictions from an isotope-enabled global climate model to investigate habitat use and environmental conditions. Bulk δ18Op values (mean 22.0 ± 1.3‰) show no significant changes through the Eocene. Furthermore, the variation in bulk δ18Op values often exceeds that in simulated seasonal and regional values. Pelagic and benthic sharks exhibit similar δ18Op values across units but are offset relative to bivalve and modeled values. Some taxa suggest movements into warmer or more brackish waters (e.g., Striatolamia, Carcharias) or deeper, colder waters (e.g., Pristiophorus). Taxa like Raja and Squalus display no shift, tracking local conditions in Seymour Island. The lack of difference in δ18Op values between pelagic and benthic sharks in the Late Eocene could suggest a poorly stratified water column, inconsistent with a fully opened Drake Passage. Our findings demonstrate that shark tooth bioapatite tracks the preferred habitat conditions for individual taxa rather than recording environmental conditions where they are found. A lack of secular variation in δ18Op values says more about species ecology than the absence of regional or global environmental changes.},
+year = {2024}
+}
+
