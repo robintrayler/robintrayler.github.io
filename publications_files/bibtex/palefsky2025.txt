@@ -1,0 +1,11 @@
+@article{palefsky2025,
+  title = {Ancient {{Skeletons In Situ}}: {{Evaluating Bone Diagenesis}} at an {{Open-Air Archaeological Site}} and {{Community Museum}} in {{Central Thailand}}},
+  author = {Palefsky, Gina and Lertcharnrit, Thanik and Trayler, Robin B and Lopes, Lauren E and Kim, Sora L},
+  year = {2025},
+  journal = {Journal of Archaeological Method and Theory},
+  volume = {32},
+  number = {1},
+  pages = {13},
+  publisher = {Springer},
+  issn = {1072-5369}
+}

@@ -1,0 +1,8 @@
+@article{stiles2025,
+  title = {Phytoliths Reveal {{Paleocene}}- {{Eocene}} Forest Expansions Preceded Dryland Vegetation in Southern {{South America}}},
+  author = {Stiles, Elena and Gelfo, Javier N and Raigemborn, Maria Sol and Kohn, Matthew J and Canares, Brielle AD and Trayler, Robin B and {Iba{\~n}ez-Mej{\'i}a}, Mauricio and Erra, Georgina and Goin, Francisco and Str{\"o}mberg, Caroline AE},
+  year = {2025},
+  journal = {Geological Society of America Bulletin},
+  publisher = {Geological Society of America},
+  issn = {0016-7606}
+}
